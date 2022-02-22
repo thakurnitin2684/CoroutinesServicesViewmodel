@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">CoroutinesServicesViewmodel</string>
+
+        <string name="heading">Services In Android</string>
+        <string name="startButtonText">Start the Service</string>
+        <string name="stopButtonText">Stop the Service</string>
+    <string name="zero">0</string>
+    <string name="bool">false</string>
+    <string name="buttonText">+1</string>
+    <string name="viewmodel">View Model</string>
+    <string name="coroutines">Coroutines</string>
+    <string name="cText">cText</string>
+    <string name="button">Start Coroutines</string>
+    <string name="cancelButton">Cancel Coroutines</string>
+</resources>
